@@ -1,0 +1,1 @@
+{"name":"redis","command":"-d -p 6379:6379 redis"}
